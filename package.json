@@ -1,7 +1,7 @@
 {
   "name": "simple-code-snippet-manager",
   "version": "1.0.0",
-  "description": "A simple and efficient code snippet manager.",
+  "description": "A simple and efficient tool for managing code snippets.",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
